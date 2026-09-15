@@ -1,5 +1,9 @@
 title: Azure Document Intelligence OCR Staging
 description: This Add-On uses Azure's Document Intelligence API to OCR documents.
+disclosures: |
+  This Add-On uses a form of machine learning to perform OCR. The Add-On sends data to Microsoft using the Document Intelligence API. 
+  You may read the document intelligence [privacy](https://learn.microsoft.com/en-us/azure/foundry/responsible-ai/document-intelligence/data-privacy-security) and training policy
+  to determine how this data is handled.
 instructions: ''
 type: object
 documents:
